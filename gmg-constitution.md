@@ -40,7 +40,7 @@ retribution, retaliation, or harassment.
 ## Section 1
 
 The elected officers of Game Makers Guild shall be President, Vice-President,
-and Treasurer.
+Treasurer, Secretary, and Publicist.
 
 ### Part 1
 
@@ -59,6 +59,16 @@ accurate record of receipts and expenditures, and shall pay out local funds in
 accordance with the approved budget as authorized by the organization. The
 Treasurer shall present a financial statement when requested by the President
 or Vice-President.
+
+### Part 4
+
+The Secretary shall keep minutes of Game Makers Guild meetings and shall make
+meeting summaries available to members via electronic means.
+
+### Part 5
+
+The Publicist shall update the Game Makers Guild website and handle routine
+communication with the members.
 
 ## Section 2
 
@@ -126,7 +136,7 @@ activities.
 
 In the event Game Makers Guild dissolves, all monies left in the treasury,
 after outstanding debts and claims have been paid, shall be donated to the
-American Cancer Society.
+International Game Developers Association.
 
 # ARTICLE XI.  AMENDMENTS TO CONSTITUTION
 
