@@ -67,8 +67,9 @@ meeting summaries available to members via electronic means.
 
 ### Part 5
 
-The Publicist shall update the Game Makers Guild website and handle routine
-communication with the members.
+The Publicist's purpose is to promote membership growth. The Publicist shall
+update the Game Makers Guild website, send out newsletters, and oragnize
+efforts to drive membership.
 
 ## Section 2
 
