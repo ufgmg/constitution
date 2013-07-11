@@ -1,3 +1,7 @@
+% CONSTITUTION OF GAME MAKERS GUILD
+%
+% Last updated: July 10, 2013
+
 # ARTICLE I.  NAME OF ORGANIZATION
 
 The name of this organization is Game Makers Guild. This organization will
@@ -42,34 +46,24 @@ retribution, retaliation, or harassment.
 The elected officers of Game Makers Guild shall be President, Vice-President,
 Treasurer, Secretary, and Publicist.
 
-### Part 1
+1.  The President shall preside at all meetings of the organization and shall
+    coordinate the work of the officers.
 
-The President shall preside at all meetings of the organization and shall
-coordinate the work of the officers.
+2.  The Vice-President shall serve as an aide to the President and shall perform
+    the duties of the President in his/her absence or inability to serve.
 
-### Part 2
+3.  The Treasurer shall receive all monies of Game Makers Guild; shall keep an
+    accurate record of receipts and expenditures, and shall pay out local funds in
+    accordance with the approved budget as authorized by the organization. The
+    Treasurer shall present a financial statement when requested by the President
+    or Vice-President.
 
-The Vice-President shall serve as an aide to the President and shall perform
-the duties of the President in his/her absence or inability to serve.
+4.  The Secretary shall keep minutes of Game Makers Guild meetings and shall make
+    meeting summaries available to members via electronic means.
 
-### Part 3
-
-The Treasurer shall receive all monies of Game Makers Guild; shall keep an
-accurate record of receipts and expenditures, and shall pay out local funds in
-accordance with the approved budget as authorized by the organization. The
-Treasurer shall present a financial statement when requested by the President
-or Vice-President.
-
-### Part 4
-
-The Secretary shall keep minutes of Game Makers Guild meetings and shall make
-meeting summaries available to members via electronic means.
-
-### Part 5
-
-The Publicist's purpose is to promote membership growth. The Publicist shall
-update the Game Makers Guild website, send out newsletters, and oragnize
-efforts to drive membership.
+5.  The Publicist's purpose is to promote membership growth. The Publicist shall
+    update the Game Makers Guild website, send out newsletters, and oragnize
+    efforts to drive membership.
 
 ## Section 2
 
@@ -82,23 +76,17 @@ and/or until their successors are elected or appointed.
 Any officer of Game Makers Guild may be removed from office through the
 following process:
 
-### Part 1
+1.  A written request by at least three voting members of the organization shall be
+    submitted to either the President, Vice President, or Treasurer. Written
+    notification shall be sent to the officer in question asking that officer to be
+    present at the next meeting and prepared to respond to the removal request.
 
-A written request by at least three voting members of the organization shall be
-submitted to either the President, Vice President, or Treasurer. Written
-notification shall be sent to the officer in question asking that officer to be
-present at the next meeting and prepared to respond to the removal request.
+2.  A two thirds majority vote of members present is necessary to remove the
+    officer.
 
-### Part 2
-
-A two thirds majority vote of members present is necessary to remove the
-officer.
-
-### Part 3
-
-In the event of the removal of an officer, a special provision may be granted
-to the remaining officers to appoint an interim replacement until an election
-may be held.
+3.  In the event of the removal of an officer, a special provision may be granted
+    to the remaining officers to appoint an interim replacement until an election
+    may be held.
 
 # ARTICLE VII.  ELECTIONS
 
