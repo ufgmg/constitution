@@ -1,6 +1,6 @@
 % CONSTITUTION OF GAME MAKERS GUILD
 %
-% Last updated: July 10, 2013
+% Last updated: July 12, 2013
 
 # ARTICLE I.  NAME OF ORGANIZATION
 
@@ -23,13 +23,35 @@ procedures. Such compliance includes but is not limited to the University's
 regulations related to Non-Discrimination, Hazing, Commercial Activity, and
 Student Leader Eligibility.
 
-# ARTICLE IV.  NON-DISCRIMINATION
+# ARTICLE IV.  UNIVERSITY REGULATIONS
+
+## Section A.  Non-Discrimination
 
 Game Makers Guild agrees that it will not discriminate on the basis of race,
 creed, color, religion, age, disability, sex, sexual orientation, gender
 identity and expression, marital status, national origin, political opinions or
 affiliations, genetic information and veteran status as protected under the
 Vietnam Era Veterans' Readjustment Assistance Act.
+
+## Section B.  Sexual Harassment
+
+Game Makers Guild agrees that it will not engage in any activity that is
+unwelcome conduct of sexual nature that creates a hostile environment.
+
+## Section C.  Hazing
+
+Game Makers Guild agrees that it will not initiate, support, or encourage any
+events or situations that recklessly, by design, or intentionally endanger the
+mental or physical health or safety of a student for any purpose including but
+not limited to initiation or admission into or affiliation with any student
+group or organization.
+
+## Section D. Responsibility to Report
+
+If this organization becomes aware of any such conduct described in this
+article, Game Makers Guild will report it immediately to Student Activities and
+Involvement, the Director of Student Conduct and Conflict Resolution, or the
+University’s Title IX Coordinator.
 
 # ARTICLE V.  MEMBERSHIP
 
@@ -94,7 +116,7 @@ Nominations for all officers will take place annually from the members starting
 in March. Any member may nominate any other voting member, including himself or
 herself. Nominations may also be made during the election meeting prior to the
 closing of nominations. Voting will occur by secret ballot. A simple majority
-vote is required to elect the officer. If there are more than two candidates
+vote is required to elect an officer. If there are more than two candidates
 running and no candidate receives a majority, then a run-off vote between the
 top two vote recipients shall be held during the same meeting, and the one who
 receives a majority shall be elected. No person shall be eligible to serve more
