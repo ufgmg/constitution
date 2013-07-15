@@ -1,6 +1,6 @@
 % CONSTITUTION OF GAME MAKERS GUILD
 %
-% Last updated: July 12, 2013
+% Last updated: July 15, 2013
 
 # ARTICLE I.  NAME OF ORGANIZATION
 
@@ -66,7 +66,7 @@ retribution, retaliation, or harassment.
 ## Section 1
 
 The elected officers of Game Makers Guild shall be President, Vice-President,
-Treasurer, Secretary, and Publicist.
+Treasurer, and Publicist.
 
 1.  The President shall preside at all meetings of the organization and shall
     coordinate the work of the officers.
@@ -80,12 +80,11 @@ Treasurer, Secretary, and Publicist.
     Treasurer shall present a financial statement when requested by the President
     or Vice-President.
 
-4.  The Secretary shall keep minutes of Game Makers Guild meetings and shall make
-    meeting summaries available to members via electronic means.
-
-5.  The Publicist's purpose is to promote membership growth. The Publicist shall
+4.  The Publicist's purpose is to promote membership growth. The Publicist shall
     update the Game Makers Guild website, send out newsletters, and oragnize
-    efforts to drive membership.
+    efforts to drive membership. The Publicist shall also keep minutes of Game
+    Makers Guild meetings and shall make meeting summaries available to members
+    via electronic means.
 
 ## Section 2
 
