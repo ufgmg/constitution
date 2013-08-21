@@ -1,6 +1,6 @@
 % CONSTITUTION OF GAME MAKERS GUILD
 %
-% Last updated: July 15, 2013
+% Last updated: August 21, 2013
 
 # ARTICLE I.  NAME OF ORGANIZATION
 
