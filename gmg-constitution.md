@@ -17,11 +17,12 @@ meet, discuss, and work on game-making.
 
 Upon approval by the Department of Student Activities and Involvement, Game
 Makers Guild shall be a registered student organization at the University of
-Florida. Game Makers Guild shall comply with all local, state and federal
-laws, as well as all University of Florida regulations, policies, and
-procedures. Such compliance includes but is not limited to the University's
-regulations related to Non-Discrimination, Hazing, Commercial Activity, and
-Student Leader Eligibility.
+Florida. Game Makers Guild shall comply with all local, state and federal laws,
+as well as all University of Florida regulations, policies, and procedures.
+Such compliance includes but is not limited to the University’s regulations
+related to Non-Discrimination, Sexual Harassment (including sexual misconduct,
+dating violence, domestic violence, and stalking), Hazing, Commercial Activity,
+and Student Leader Eligibility.
 
 # ARTICLE IV.  UNIVERSITY REGULATIONS
 
